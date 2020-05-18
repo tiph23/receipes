@@ -1,0 +1,26 @@
+baseURL = "/receipes/"
+languageCode = "en-us"
+title = "All you need is Food"
+theme = "anatole"
+summarylength = 10
+
+[params]
+title = "I love food..."
+author = "Tiph"
+description = "more than people."
+profilePicture = "images/food.jpg" 
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
