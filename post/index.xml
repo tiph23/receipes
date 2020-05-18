@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on All you need is Food</title>
+    <link>/receipes/post/</link>
+    <description>Recent content in Posts on All you need is Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/receipes/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Croutons</title>
+      <link>/receipes/post/crouton/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/crouton/</guid>
+      <description> Couper les tranches de pain de mie en 4 ou 6 Tout mettre dans un sachet de cuisine type sac de congelation Ajouter huile d&amp;rsquo;olive, sel, ail, herbes Secouer Vider le tout sur la plaque de cuisson et enfourner jusqu&amp;rsquo;à ce qu&amp;rsquo;ils dorent  </description>
+    </item>
+    
+  </channel>
+</rss>
