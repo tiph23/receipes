@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sauce on All you need is Food</title>
+    <link>/receipes/tags/sauce/</link>
+    <description>Recent content in sauce on All you need is Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/receipes/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sauce tomate carottes-lardon</title>
+      <link>/receipes/post/saucepate/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/saucepate/</guid>
+      <description>Couper les carottes finement Les faire revenir dans du beurre Y ajouter du citron Dans une autre poêle faire revenir lardon + oignons + ail.</description>
+    </item>
+    
+  </channel>
+</rss>

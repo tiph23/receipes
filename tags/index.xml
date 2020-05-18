@@ -12,11 +12,47 @@
     
     
     <item>
-      <title>apero</title>
-      <link>/receipes/tags/apero/</link>
+      <title>apéro</title>
+      <link>/receipes/tags/ap%C3%A9ro/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/receipes/tags/apero/</guid>
+      <guid>/receipes/tags/ap%C3%A9ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entreé</title>
+      <link>/receipes/tags/entre%C3%A9/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/entre%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrée</title>
+      <link>/receipes/tags/entr%C3%A9e/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/entr%C3%A9e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plat</title>
+      <link>/receipes/tags/plat/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/plat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pâte</title>
+      <link>/receipes/tags/p%C3%A2te/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/p%C3%A2te/</guid>
       <description></description>
     </item>
     
@@ -30,11 +66,29 @@
     </item>
     
     <item>
+      <title>sauce</title>
+      <link>/receipes/tags/sauce/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>soupe</title>
       <link>/receipes/tags/soupe/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/receipes/tags/soupe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veggie</title>
+      <link>/receipes/tags/veggie/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/veggie/</guid>
       <description></description>
     </item>
     

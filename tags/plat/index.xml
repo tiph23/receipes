@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plat on All you need is Food</title>
+    <link>/receipes/tags/plat/</link>
+    <description>Recent content in plat on All you need is Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/receipes/tags/plat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gratin Dauphinois</title>
+      <link>/receipes/post/gratindauphinois/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/gratindauphinois/</guid>
+      <description>&amp;hellip;coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pâte brisée</title>
+      <link>/receipes/post/patebrisee/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/patebrisee/</guid>
+      <description>300g farine 150g beurre ~8cl d&amp;rsquo;eau  Faire fondre le beurre en pommade.</description>
+    </item>
+    
+    <item>
+      <title>Pâte pour Flammenkueche</title>
+      <link>/receipes/post/pateflamenkueche/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/pateflamenkueche/</guid>
+      <description>&amp;hellip;coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pâte pour pizza</title>
+      <link>/receipes/post/patepizza/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/patepizza/</guid>
+      <description>&amp;hellip;coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Schnitzel</title>
+      <link>/receipes/post/schnitzel/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/schnitzel/</guid>
+      <description>&amp;hellip;coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Soupe à l&#39;oignon</title>
+      <link>/receipes/post/soupeoignons/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/soupeoignons/</guid>
+      <description>&amp;hellip;coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

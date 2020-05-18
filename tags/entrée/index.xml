@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entrée on All you need is Food</title>
+    <link>/receipes/tags/entr%C3%A9e/</link>
+    <description>Recent content in entrée on All you need is Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/receipes/tags/entr%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soupe à l&#39;oignon</title>
+      <link>/receipes/post/soupeoignons/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/soupeoignons/</guid>
+      <description>&amp;hellip;coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
