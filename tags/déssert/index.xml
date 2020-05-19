@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dessert on All you need is Food</title>
-    <link>/receipes/tags/dessert/</link>
-    <description>Recent content in dessert on All you need is Food</description>
+    <title>déssert on All you need is Food</title>
+    <link>/receipes/tags/d%C3%A9ssert/</link>
+    <description>Recent content in déssert on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/receipes/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/receipes/tags/d%C3%A9ssert/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cookies</title>
+      <link>/receipes/post/cookies/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/cookies/</guid>
+      <description>400g de farine 200g de beurre 225g de sucre roux 2 oeufs 1 pincée de sel 200g de chocolat à couper pour en faire des éclats 2 cuillère à café de levure  Mélanger beurre, farine et sucre.</description>
+    </item>
     
     <item>
       <title>Mousse au chocolat</title>
