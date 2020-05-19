@@ -3,7 +3,8 @@ title = "Mousse au chocolat"
 date = "2020-05-19"
 description = "Mousse au chocolat"
 tags = [
-    "dessert",
+    "déssert",
+    "veggie",
 ]
 +++
 

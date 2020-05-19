@@ -3,7 +3,7 @@ title = "Riz au lait"
 date = "2020-05-19"
 description = "Riz au lait"
 tags = [
-    "dessert",
+    "déssert",
     "veggie",
 ]
 +++
