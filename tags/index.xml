@@ -6,10 +6,37 @@
     <description>Recent content in Tags on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/receipes/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>apéro</title>
+      <link>/receipes/tags/ap%C3%A9ro/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/ap%C3%A9ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrée</title>
+      <link>/receipes/tags/entr%C3%A9e/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/entr%C3%A9e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veggie</title>
+      <link>/receipes/tags/veggie/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/veggie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>plat</title>
@@ -17,15 +44,6 @@
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/receipes/tags/plat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apéro</title>
-      <link>/receipes/tags/ap%C3%A9ro/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/tags/ap%C3%A9ro/</guid>
       <description></description>
     </item>
     
@@ -44,24 +62,6 @@
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/receipes/tags/entre%C3%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>veggie</title>
-      <link>/receipes/tags/veggie/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/tags/veggie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>entrée</title>
-      <link>/receipes/tags/entr%C3%A9e/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/tags/entr%C3%A9e/</guid>
       <description></description>
     </item>
     
