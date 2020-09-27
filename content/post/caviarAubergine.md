@@ -20,3 +20,5 @@ tags = [
     - Pour verifier qu'elles sont bien cuites piquer l'aubergine avec une fourchette par exemple (même principe que pour une pomme de terre)
 3. Couper ensuite l'aubergine et la passer au mixeur avec de l'ail, du sel, du poivre et de l'huile d'olive
 4. À déguster ensuite en dipp à l'apéro par exemple
+
+Petit plus: rajouter le jus d'un demi citron jaune
