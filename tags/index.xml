@@ -6,10 +6,19 @@
     <description>Recent content in Tags on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/receipes/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>plat</title>
+      <link>/receipes/tags/plat/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/plat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>apéro</title>
@@ -35,15 +44,6 @@
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/receipes/tags/veggie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plat</title>
-      <link>/receipes/tags/plat/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/tags/plat/</guid>
       <description></description>
     </item>
     
