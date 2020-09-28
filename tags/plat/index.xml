@@ -6,10 +6,19 @@
     <description>Recent content in plat on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/receipes/tags/plat/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Salade estivale</title>
+      <link>/receipes/post/saladeestivale2/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/saladeestivale2/</guid>
+      <description>Betterave (crue ou cuite peu importe) Framboises Chèvre frais Salade  En options:</description>
+    </item>
     
     <item>
       <title>Poké saumon</title>
