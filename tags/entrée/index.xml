@@ -6,10 +6,16 @@
     <description>Recent content in entrée on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/receipes/tags/entr%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/receipes/tags/entr%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe à l&#39;oignon</title>
+      <link>/receipes/post/soupeoignons/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/soupeoignons/</guid>
+      <description>Pour 2 personnes:
+ 1kg d&amp;rsquo;oignons blancs 30-40g de beurre Bouillon de légumes Fromage rapé Croûtons Vin blanc (10cl)  Préparer 1L de bouillon.</description>
+    </item>
     
     <item>
       <title>Salade estivale rouge</title>
@@ -27,15 +33,6 @@
       
       <guid>/receipes/post/saladepasteque/</guid>
       <description>Pastèque Feta Menthe fraiche   Couper la pastèque en petits cubes Couper la feta en petits cubes Laver et couper la menthe fraîche Tout mélanger dans une saladier et assaisonner selon votre goût (personnellement j&amp;rsquo;utilise simplement l&amp;rsquo;huile du pot de feta)  Variante: ajouter des olives noires</description>
-    </item>
-    
-    <item>
-      <title>Soupe à l&#39;oignon</title>
-      <link>/receipes/post/soupeoignons/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/post/soupeoignons/</guid>
-      <description>&amp;hellip;coming soon&amp;hellip;</description>
     </item>
     
   </channel>

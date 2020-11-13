@@ -6,10 +6,16 @@
     <description>Recent content in Posts on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/receipes/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/receipes/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe à l&#39;oignon</title>
+      <link>/receipes/post/soupeoignons/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/post/soupeoignons/</guid>
+      <description>Pour 2 personnes:
+ 1kg d&amp;rsquo;oignons blancs 30-40g de beurre Bouillon de légumes Fromage rapé Croûtons Vin blanc (10cl)  Préparer 1L de bouillon.</description>
+    </item>
     
     <item>
       <title>Salade estivale rouge</title>
@@ -174,15 +180,6 @@
       
       <guid>/receipes/post/schnitzel/</guid>
       <description>Escalope de veau (recette originale) ou porc Chapelure Sel, poivre Farine Jaune d&amp;rsquo;oeuf (x2) 2 à 3 c.</description>
-    </item>
-    
-    <item>
-      <title>Soupe à l&#39;oignon</title>
-      <link>/receipes/post/soupeoignons/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/post/soupeoignons/</guid>
-      <description>&amp;hellip;coming soon&amp;hellip;</description>
     </item>
     
   </channel>
