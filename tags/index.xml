@@ -6,7 +6,25 @@
     <description>Recent content in Tags on All you need is Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/receipes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/receipes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>déssert</title>
+      <link>/receipes/tags/d%C3%A9ssert/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/d%C3%A9ssert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veggie</title>
+      <link>/receipes/tags/veggie/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/receipes/tags/veggie/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>entrée</title>
       <link>/receipes/tags/entr%C3%A9e/</link>
@@ -35,29 +53,11 @@
     </item>
     
     <item>
-      <title>veggie</title>
-      <link>/receipes/tags/veggie/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/tags/veggie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>apéro</title>
       <link>/receipes/tags/ap%C3%A9ro/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/receipes/tags/ap%C3%A9ro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>déssert</title>
-      <link>/receipes/tags/d%C3%A9ssert/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/receipes/tags/d%C3%A9ssert/</guid>
       <description></description>
     </item>
     
