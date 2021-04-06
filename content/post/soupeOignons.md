@@ -22,7 +22,7 @@ Pour 2 personnes:
 Préparer 1L de bouillon.  
 Couper les oignons en fines lamelles.  
 Faire revenir les oignons avec le beurre dans une casserole.  
-Lorsque les oignons sont dores les deglacer au vin blanc.  
+Lorsque les oignons sont dorés les déglacer au vin blanc.  
 Rajouter le litre de bouillon et laisser mijoter 40mns.  
 Préparer les croûtons. (voir cette [recette]({{< ref "/crouton.md" >}}))  
 Servir ensuite la soupe dans des bols qui vont au four. Recouvrir de fromage et enfourner 10mns au four (180degrés).  
