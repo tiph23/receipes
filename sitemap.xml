@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/receipes/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/receipes/post/cloudeggs/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/receipes/tags/plat/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/receipes/post/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/receipes/post/patetortillas/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/receipes/tags/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/receipes/tags/veggie/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/receipes/post/bananbread/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
@@ -14,19 +32,7 @@
     <loc>/receipes/tags/d%C3%A9ssert/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/receipes/post/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/receipes/tags/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/receipes/tags/veggie/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/receipes/tags/entr%C3%A9e/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/receipes/tags/plat/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/receipes/tags/soupe/</loc>
