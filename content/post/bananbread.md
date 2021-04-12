@@ -10,11 +10,11 @@ tags = [
 
 * 200g de farine
 * 1 cuillère à café de levure
-* 100g de sucre brun
+* 50g de sucre brun
 * 100g de beurre
 * 2 œufs
 * 3 bananes (très mûres) 
-* 50g de noix
+* 80g de noix
 * 100g de pépites de chocolat (ou de chocolat noir)
 * 1 cuillère à soupe de sucre vanillé  
 
