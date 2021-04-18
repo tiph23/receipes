@@ -13,10 +13,9 @@ tags = [
 * 50g de sucre brun
 * 100g de beurre
 * 2 œufs
-* 3 bananes (très mûres) 
-* 80g de noix
-* 100g de pépites de chocolat (ou de chocolat noir)
-* 1 cuillère à soupe de sucre vanillé  
+* 50g de noix
+* 80g de pépites de chocolat (ou de chocolat noir)
+* 1 cuillère à soupe/1 sachet de sucre vanillé  
 
 Préchauffer le four à 200  
 Écraser les bananes avec une fourchette  
@@ -26,5 +25,5 @@ Ajouter les œufs
 Ajouter la farine (petit à petit) et la levure  
 Ajouter aussi les bananes écrasées, les noix concassées et les pépites de chocolat.  
 Ajouter le sucre vanillé  
-Mettre 50mns au four  
+Mettre 30-40mns au four  
 
