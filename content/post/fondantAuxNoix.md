@@ -10,14 +10,14 @@ tags = [
 
 * 125g de beurre  
 * 250g de noix  
-* 300g de sucre brun  
+* 150g de sucre brun  
 * 80g de farine  
 * 5 œufs  
 * 1 sache de levure chimique  
   
 Options:  
 * 2 cuillère à soupe de rhum brun  
-* 50g de fruits secs  
+* 50g de fruits secs ou pépites de chocolat
   
 Préchauffer le four à 180    
 Écraser les noix (de préférence avec un mixeur)    
