@@ -23,3 +23,5 @@ Les incorporer délicatement au mélange. Il n'est pas necessaire, et même reco
 Mettre au frais plusieurs heures, jusqu'à ce la mousse ne soit plus liquide (au moins 4h).
 Sortir du frigo 1heure avant de les servir.   
 En doublant les proportions on obtient 10 bonnes portions de mousse au chocolat - petite quantité mais largement suffisante car la mousse est très intense si on utilise du chocolat 70% par exemple.
+
+{{< figure src="images/mousses.jpeg" >}}  
