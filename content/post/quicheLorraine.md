@@ -15,7 +15,7 @@ tags = [
 * Environ 150g de gruyère râpé
 * Muscade
 
-1) Battre les œufs dans un saladier ; y ajouter crème fraîche et lait
+1) Battre les œufs dans un saladier ; y ajouter crème fraîche, lait et muscade
 2) Fais revenir le lard.
 3) Déposer les lardons sur la pâte brisée (préalablement piquée avec une fourchette)
 4) Puis le mélange œufs/crème-fraîche/lait
